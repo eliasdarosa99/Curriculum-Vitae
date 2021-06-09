@@ -359,5 +359,4 @@ pdf2htmlEX.defaultViewer = new pdf2htmlEX.Viewer({});
 </body>
 </html>
 
-# Curriculum-Vitae
-https://eliasdarosa99.github.io/Curriculum-Vitae/
+
